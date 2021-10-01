@@ -4,7 +4,7 @@ This is a collection of C implementations of common data structures.
 I implemented these as an exercise when I was first learning C.
 I have no interest in maintaining this library. **Use this code at your own peril.**
 
-The library includes implementations of the following data structures.
+The library includes implementation of the following data structures.
 
  * Hashmap
  * Vector (auto-expanding array)
